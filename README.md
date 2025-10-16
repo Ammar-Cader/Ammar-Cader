@@ -1,5 +1,23 @@
--I am a highly motivated and enthusiastic individual with a strong interest in the fields of cyber security, networking, and information technology. I am eager to gain hands-on work experience and deepen my knowledge in these dynamic and crucial areas. My passion for technology drives me to constantly learn and stay updated with the latest developments and best practices in the industry. I am looking for opportunities to apply my skills, contribute to projects, and grow professionally in a challenging and supportive environment. 👋 Hi, I’m @Ammar-Cader
+# 👋 Hi, I’m @Ammar-Cader
 
+I am a highly motivated and enthusiastic individual with a strong interest in **cyber security**, **networking**, and **information technology**.  
+I’m passionate about **Linux systems**, **self-hosting solutions**, and open-source technologies that empower individuals and organizations to take control of their infrastructure.  
+
+My curiosity drives me to constantly **learn, experiment, and build** — whether it’s configuring secure servers, optimizing networks, or exploring automation in real-world environments.  
+I’m eager to gain hands-on experience, contribute to meaningful projects, and grow professionally in a challenging and supportive environment.
+
+---
+
+💻 **Tech Interests**
+- Cyber Security & Ethical Hacking  
+- Linux System Administration  
+- Networking & Infrastructure  
+- Self-Hosting & Cloud Services  
+- Docker & Automation  
+
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ammar-cader) | [GitHub](https://github.com/Ammar-Cader)
+
+---
 
 <!---
 Ammar-Cader/Ammar-Cader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
