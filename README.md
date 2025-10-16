@@ -15,7 +15,7 @@ I’m eager to gain hands-on experience, contribute to meaningful projects, and 
 - Self-Hosting & Cloud Services  
 - Docker & Automation  
 
-📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ammar-cader) | [GitHub](https://github.com/Ammar-Cader)
+📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ammar-cader-) | [GitHub](https://github.com/Ammar-Cader)
 
 ---
 
